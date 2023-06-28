@@ -1,6 +1,9 @@
 # Store
 Online Store using Django framework
 ----------------------------------------
+
+Developers ==> Ali Kootabadi & Mobin Taherzade
+
 The project includes these options:
 1. a homepage to show suggested products ------> every time shows 5 randome products from database
 2. a cart page to add products and buy them ---------> each time you add a product to cart it's count will reduce in product page
